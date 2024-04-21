@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/github/license/Xhofe/alist" alt="License" />
   </a>
   <a href="https://github.com/Xhofe/alist/releases">
-    <img src="https://img.shields.io/github/release/Xhofe/alist" alt="latest version" />
+    <img src="https://img.shields.io/github/release/haodong1668/alist-mod" alt="latest version" />
   </a>
 </div>
 </div>
